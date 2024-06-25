@@ -1,0 +1,14 @@
+name = "Asfin Achdian"
+rol = "IT guy"
+email = "asfinachdian@gmail.com"
+phone = "+62 8129 800 3062"
+birthday = "Oct 09, 1990"
+location = "Jakarta, Indonesia"
+avatar = "./config/assets/avatars/my-avatar.png"
+username = "asfinachdian" # <-- github user name
+googlemaps = "https://maps.app.goo.gl/fy8bhjmEfk4oHFDY7" 
+presentation = """
+I'm IT Guy and DevSevOps Engineer from Jakarta, Indonesia, working in real estate and  fintech company. I enjoy turning complex problems into automate, simple and scale system and application.
+
+My job is to build your system from scratch and enhance the existing system so that it is robust and automate but at the same time scalable. Moreover, I add personal touch to your system and make sure that is running properly.
+"""
