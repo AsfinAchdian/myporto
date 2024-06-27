@@ -16,28 +16,27 @@ description = "A Master of Science in Business Information Systems (M.Sc. in Bus
 [[experience]]
 title = "IT Core Banking Application T24 at PT Rabobank International Indonesia"
 timeline = "2013 — 2017"
-description = "Windows server, MySQL Server, JBoss, T24 corebanking system, Alaric, Solarwind"
+techstack = "Windows server, MySQL Server, JBoss, T24 corebanking system, Alaric, Solarwind"
 
 [[experience]]
-title = "
-System Engineer and Release Management at Mekar Investama Sampoerna"
+title = "System Engineer and Release Management at Mekar Investama Sampoerna"
 timeline = "2017 — 2019"
-description = "Docker, MySQL Server, Jenkins, AWS, Python, Github, Metabase, Sentry, Rancer, Slack."
+techstack = "Docker, MySQL Server, Jenkins, AWS, Python, Github, Metabase, Sentry, Rancer, Slack."
 
 [[experience]]
 title = "Digital Banking Development Operation Specialist at Jenius"
 timeline = "2019 — 2021"
-description = "Openshift K8s, NewRelic, Splunk, Minio, NXRM, Jenkins, Bitbucket, React, NodeJS, MongoDB, GraphQL, AWS, Slack."
+techstack = "Openshift K8s, NewRelic, Splunk, Minio, NXRM, Jenkins, Bitbucket, React, NodeJS, MongoDB, GraphQL, AWS, Slack."
 
 [[experience]]
 title = "Digital Ecosystem Development Specialist at CT Corp Digital"
 timeline = "2021 — 2022"
-description = "GCP, GWS, Datadog, Jenkins, Gitlab, Docker, Quarkus, MySQL Server, Keycloak, Matermost."
+techstack = "GCP, GWS, Datadog, Jenkins, Gitlab, Docker, Quarkus, MySQL Server, Keycloak, Matermost."
 
 [[experience]]
 title = "Manager IT Infrastructure and Operations at Briix Financial Technology"
 timeline = "2021 — Present"
-description = "GCP, GWS, Github, Signoz, Docker, Firebase, Flutter, Quarkus, VueJS."
+techstack = "GCP, GWS, Github, Signoz, Docker, Firebase, Flutter, Quarkus, VueJS."
 
 ############## Skills config ####################
 #################################################
