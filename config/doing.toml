@@ -11,9 +11,9 @@ text = "Automation and task scripting using Python to enhance efficiency and pro
 [[doing]]
 title = "DevSevOps"
 icon = "./config/assets/icons/mobile.svg"
-text = "Professional development of automation CICD process."
+text = "Professional development of automation CICD to the next level."
 
 [[doing]]
 title = "Solution Architect"
 icon = "./config/assets/icons/compass.svg"
-text = "Analyze business problems, identify technical requirements, and create detailed plans for integrating new systems and technologies."
+text = "Analyze business problems and create detailed plans for integrating new systems and technologies."
