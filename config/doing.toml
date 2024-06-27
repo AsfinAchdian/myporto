@@ -1,7 +1,7 @@
 [[doing]]
-title = "Mobile Apps"
-icon = "./config/assets/icons/mobile.svg"
-text = "Professional development of applications for iOS and Android."
+title = "Software Development"
+icon = "./config/assets/icons/laptop-code.svg"
+text = "High-quality development of software at the professional level."
 
 [[doing]]
 title = "Scripting"
@@ -9,11 +9,11 @@ icon = "./config/assets/icons/code.svg"
 text = "Automation and task scripting using Python to enhance efficiency and productivity."
 
 [[doing]]
-title = "UI/UX Designing"
-icon = "./config/assets/icons/compass.svg"
-text = "Intuitive and visually appealing user interfaces and user experiences."
+title = "DevSevOps"
+icon = "./config/assets/icons/mobile.svg"
+text = "Professional development of automation CICD process."
 
 [[doing]]
-title = "Web Development"
-icon = "./config/assets/icons/laptop-code.svg"
-text = "High-quality development of sites at the professional level."
+title = "Solution Architect"
+icon = "./config/assets/icons/compass.svg"
+text = "Analyze business problems, identify technical requirements, and create detailed plans for integrating new systems and technologies."
