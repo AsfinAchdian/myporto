@@ -1,8 +1,8 @@
 name = "Hello this is Asfin"
-rol = "I am an IT guy"
+rol = "I am a tech enthusiast"
 linkedin = "https://www.linkedin.com/in/asfin-a-9ab00a114/"
-phone = "xxx"
-birthday = "xxx"
+phone = "(+62) 12EDBD1476 (hexa)"
+birthday = "Oct 1990"
 location = "Jakarta, Indonesia"
 avatar = "./config/assets/avatars/my-avatar.png"
 username = "asfinachdian" # <-- github user name
