@@ -11,9 +11,9 @@ icon = "./config/assets/icons/bolt.svg"
 text = "I have the ability to quickly acquire new knowledge and adapt to changing technological environments."
 
 [[skills]]
-title = "Teamwork"
+title = "Leadership "
 icon = "./config/assets/icons/user.svg"
-text = "I collaborate effectively in multidisciplinary projects and communicate clearly with team members."
+text = "My approach to leadership is grounded in empathy and accountability, empowering my team to achieve their best while maintaining a culture of trust and respect."
 
 [[skills]]
 title = "Problem Solving"
