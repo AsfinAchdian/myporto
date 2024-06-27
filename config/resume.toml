@@ -21,12 +21,12 @@ description = "Windows Server, MySQL Server, JBoss, F5, T24 corebanking system, 
 [[experience]]
 title = "System Engineer and Release Management at Mekar Investama Sampoerna"
 timeline = "2017 — 2019"
-description = "Docker, MySQL Server, Jenkins, AWS, Python, Wordpress, Github, Metabase, Sentry, Rancer, Slack"
+description = "Docker, MySQL Server, Jenkins, AWS, Python, Wordpress, Github, Metabase, Sentry, Rancer"
 
 [[experience]]
 title = "Digital Banking Development Operation Specialist at Jenius"
 timeline = "2019 — 2021"
-description = "AWS, Openshift K8s, NewRelic, Splunk, Minio, Nexus, Jenkins, Bitbucket, React, NodeJS, MongoDB, GraphQL"
+description = "AWS, Openshift K8s, NewRelic, Splunk, Jenkins, Bitbucket, React, NodeJS, MongoDB, GraphQL"
 
 [[experience]]
 title = "Digital Ecosystem Development Specialist at CT Corp Digital"
