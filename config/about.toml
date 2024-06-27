@@ -8,7 +8,5 @@ avatar = "./config/assets/avatars/my-avatar.png"
 username = "asfinachdian" # <-- github user name
 googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253840.49136790822!2d106.66436220258264!3d-6.2297208224126965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f3e945e34b9d%3A0x5371bf0fdad786a2!2sJakarta%2C%20Daerah%20Khusus%20Ibukota%20Jakarta!5e0!3m2!1sid!2sid!4v1719385630036!5m2!1sid!2side" 
 presentation = """
-I'm IT Guy and DevSevOps Engineer from Jakarta, Indonesia, working in real estate and  fintech company. I enjoy turning complex problems into automate, simple and scale system and application.
-
-My job is to build your system from scratch and enhance the existing system so that it is robust and automate but at the same time scalable. Moreover, I add personal touch to your system and make sure that is running properly.
+I am a tech enthusiast specializing in IT infrastructure and operations. With a deep passion for technology, I stay up-to-date with the latest industry trends and advancements. My expertise lies in designing, implementing, and managing robust IT infrastructures that ensure optimal performance and reliability. I thrive on solving complex technical challenges and continuously seek to improve operational efficiencies. My commitment to excellence drives me to explore innovative solutions that enhance the overall IT landscape, making me a dedicated and knowledgeable professional in the field.
 """
