@@ -1,38 +1,43 @@
 ############## Education config #################
 #################################################
 [[education]]
-title = "High school of art and design"
-timeline = "2002 — 2004"
-description = "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+title = "Gunadarma University"
+timeline = "2007 — 2011"
+description = "A Bachelor of Science in Computer Systems (B.Sc. in Computer Systems) is an undergraduate program designed to equip students with the foundational knowledge and practical skills needed to design, implement, and manage computer systems. This multidisciplinary field blends principles of computer science, electrical engineering, and information technology to develop comprehensive solutions for various computing needs."
 
 [[education]]
-title = "New york academy of art"
-timeline = "2006 — 2007"
-description = "Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis.."
-
-[[education]]
-title = "University school of the arts"
-timeline = "2007 — 2008"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "Gunadarma University"
+timeline = "20016 — 2018"
+description = "A Master of Science in Business Information Systems (M.Sc. in Business Information Systems) is a graduate program designed to prepare students for advanced roles at the intersection of business and technology. This interdisciplinary field integrates principles of information technology, management, and business strategy to develop, implement, and manage information systems that support business operations and decision-making."
 
 
 ############## Experience config ################
 #################################################
 [[experience]]
-title = "Web designer"
-timeline = "2010 — 2013"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "IT Core Banking Application T24 at PT Rabobank International Indonesia"
+timeline = "2013 — 2017"
+techstack = "Windows server, MySQL Server, JBoss, T24 corebanking system, Alaric, Solarwind"
 
 [[experience]]
-title = "Art director"
-timeline = "2013 — 2015"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "
+System Engineer and Release Management at Mekar Investama Sampoerna"
+timeline = "2017 — 2019"
+techstack = "Docker, MySQL Server, Jenkins, AWS, Python, Github, Metabase, Sentry, Rancer, Slack."
 
 [[experience]]
-title = "Creative director"
-timeline = "2015 — Present"
-description = "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
+title = "Digital Banking Development Operation Specialist at Jenius"
+timeline = "2019 — 2021"
+techstack = "Openshift K8s, NewRelic, Splunk, Minio, NXRM, Jenkins, Bitbucket, React, NodeJS, MongoDB, GraphQL, AWS, Slack."
 
+[[experience]]
+title = "Digital Ecosystem Development Specialist at CT Corp Digital"
+timeline = "2021 — 2022"
+techstack = "GCP, GWS, Datadog, Jenkins, Gitlab, Docker, Quarkus, MySQL Server, Keycloak, Matermost."
+
+[[experience]]
+title = "Manager IT Infrastructure and Operations at Briix Financial Technology"
+timeline = "2021 — Present"
+techstack = "GCP, GWS, Github, Signoz, Docker, Firebase, Flutter, Quarkus, VueJS."
 
 ############## Skills config ####################
 #################################################
@@ -43,20 +48,20 @@ show_bar = true
 show_value = true
 
 [[skill]]
-title = "Web design"
-value = "80%"
-
-[[skill]]
-title = "Graphic design"
-value = "70%"
-
-[[skill]]
-title = "Branding"
+title = "IT Service Management"
 value = "90%"
 
 [[skill]]
-title = "WordPress"
-value = "50%"
+title = "IT Operations"
+value = "95%"
+
+[[skill]]
+title = "Software Development"
+value = "90%"
+
+[[skill]]
+title = "Leadership"
+value = "95%"
 
 ############## Language config ##################
 #################################################
@@ -67,9 +72,5 @@ show_bar = true
 show_value = true
 
 [[language]]
-title = "Ingles"
-value = "60%"
-
-[[language]]
-title = "French"
-value = "50%"
+title = "English"
+value = "90%"
